@@ -1,16 +1,18 @@
 Visual Sorting
-About
+
+About:-
 
 This project shows how Bubble Sort and Selection Sort work using visual animation.
+
 It is made for beginners to understand sorting easily.
 
-Algorithms
+Algorithms:-
 
 Bubble Sort – compares and swaps adjacent elements
 
 Selection Sort – finds the smallest element and places it in order
 
-Technologies Used
+Technologies Used:-
 
 HTML
 
@@ -18,7 +20,7 @@ CSS
 
 JavaScript
 
-How to Run
+How to Run:-
 
 Open the project folder
 
@@ -28,13 +30,13 @@ Click on Bubble Sort or Selection Sort
 
 Watch the sorting process
 
-Purpose
+Purpose:-
 
 Learn sorting visually
 
 Improve basic JavaScript logic
 
-Author
+Author:-
 
 Arshi Raj
 Arshi Raj
